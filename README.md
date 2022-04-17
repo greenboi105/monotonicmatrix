@@ -11,4 +11,4 @@ The second task is to generate monotonic matrices using the numpy module and its
 
 The third task is to implement a function my_search_linear that simply uses a pair of nested for loops to search every element in the matrix for what we want to obtain. This implementation has a worst-case time scenario of O(n^2).
 
-The final task is to implement an improved search function that utilizes that the matrix is sorted by row and column to improve the number of checks that must be performed until we determine if the element is present in the matrix. Although this function also has a worse-case scenario of O(n^2), in the majority of instances its performance will be better than the brute-force implementation.
+The final task is to implement an improved search function that utilizes that the matrix is sorted by row and column to improve the number of checks that must be performed until we determine if the element is present in the matrix. 
